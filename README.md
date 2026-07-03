@@ -52,7 +52,7 @@ The present version substantially extends and restructures the original implemen
 - Supporting additional polytropic and tabulated equations of state
 - Refactoring the code into a modular multi-file architecture
 
-Only limited components related to the initialization of tabulated equations of state and crust matching are retained from the original implementation; the remainder of the codebase has been substantially rewritten and extended.
+Only limited components related to the initialization of tabulated equations of state and crust matching are retained from the original implementation, while the remainder of the codebase has been substantially rewritten and extended.
 
 ---
 
