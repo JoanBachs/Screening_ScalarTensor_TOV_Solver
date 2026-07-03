@@ -2,7 +2,6 @@ cff-version: 1.2.0
 title: "Screening_ScalarTensor_TOV_Solver"
 message: "If you use this software in your research, please cite it as below."
 type: software
-doi: https://doi.org/10.5281/zenodo.21156896
 
 authors:
   - family-names: "Bachs Esteban"
@@ -18,7 +17,8 @@ authors:
     contribution: "Original General Relativity TOV solver upon which this work builds"
 
 version: "1.0.0"
-date-released: 2026-02-20
+doi: https://doi.org/10.5281/zenodo.21156896
+date-released: 2026-07-03
 license: "GPL-3.0-or-later"
 repository-code: "https://github.com/JoanBachs/Screening_ScalarTensor_TOV_Solver"
 
