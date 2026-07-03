@@ -2,6 +2,7 @@ cff-version: 1.2.0
 title: "Screening_ScalarTensor_TOV_Solver"
 message: "If you use this software in your research, please cite it as below."
 type: software
+doi: https://doi.org/10.5281/zenodo.21156896
 
 authors:
   - family-names: "Bachs Esteban"
