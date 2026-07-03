@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: "Screening_ScalarTensor_TOV_Solver"
+message: "If you use this software in your research, please cite it as below."
+type: software
+
+authors:
+  - family-names: "Bachs Esteban"
+    given-names: "Joan"
+    affiliation: "Centro de Astrofísica e Gravitação (CENTRA), Instituto Superior Técnico, Universidade de Lisboa"
+    email: "joan.bachs@tecnico.ulisboa.pt"
+    orcid: "https://orcid.org/0000-0003-4121-3179"
+
+  - family-names: "Motornenko"
+    given-names: "Anton"
+    affiliation: "Frankfurt Institute for Advanced Studies (FIAS)"
+    contribution-type: "software"
+    contribution: "Original General Relativity TOV solver upon which this work builds"
+
+version: "1.0.0"
+date-released: 2026-02-20
+license: "GPL-3.0-or-later"
+repository-code: "https://github.com/JoanBachs/Screening_ScalarTensor_TOV_Solver"
+
+keywords:
+  - Tolman-Oppenheimer-Volkoff
+  - scalar-tensor gravity
+  - screening mechanisms
+  - neutron stars
+  - white dwarfs
+  - modified gravity
+  - arbitrary precision
+
+abstract: >
+  Screening_ScalarTensor_TOV_Solver is a Python package for solving
+  Tolman–Oppenheimer–Volkoff equations in General Relativity and
+  scalar–tensor theories with screening mechanisms. The code supports
+  arbitrary precision integration via mpmath and modular implementations
+  of screened modified gravity models.
