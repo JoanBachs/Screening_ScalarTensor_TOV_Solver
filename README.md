@@ -40,7 +40,7 @@ Both relativistic and Newtonian limits are implemented, enabling controlled comp
 
 ## Project History
 
-This project is based on the original TOV solver developed by Anton Motornenko.
+This project is based on the original TOV solver developed by Anton Motornenko. The original implementation is available at <https://github.com/amotornenko/TOVsolver>.
 
 The present version substantially extends and restructures the original implementation by:
 
@@ -52,7 +52,7 @@ The present version substantially extends and restructures the original implemen
 - Supporting additional polytropic and tabulated equations of state
 - Refactoring the code into a modular multi-file architecture
 
-Only limited structural components related to EoS initialization and crust matching remain from the original implementation.
+Only limited components related to the initialization of tabulated equations of state and crust matching are retained from the original implementation; the remainder of the codebase has been substantially rewritten and extended.
 
 ---
 
