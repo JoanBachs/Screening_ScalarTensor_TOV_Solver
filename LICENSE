@@ -1,10 +1,10 @@
 Screening_ScalarTensor_TOV_Solver
 
 Copyright (C) 2019–2022 Anton Motornenko
-Copyright (C) 2026 Joan Bachs Esteban
+Copyright (C) 2024–2026 Joan Bach Esteban
 
-This software includes modifications and substantial extensions
-of the original TOV solver developed by Anton Motornenko.
+This project contains code derived from the original TOV solver developed 
+by Anton Motornenko and has been substantially modified and extended.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
