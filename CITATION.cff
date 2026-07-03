@@ -10,12 +10,6 @@ authors:
     email: "joan.bachs@tecnico.ulisboa.pt"
     orcid: "https://orcid.org/0000-0003-4121-3179"
 
-  - family-names: "Motornenko"
-    given-names: "Anton"
-    affiliation: "Frankfurt Institute for Advanced Studies (FIAS)"
-    contribution-type: "software"
-    contribution: "Original General Relativity TOV solver upon which this work builds"
-
 version: "1.0.0"
 doi: https://doi.org/10.5281/zenodo.21156896
 date-released: 2026-07-03
